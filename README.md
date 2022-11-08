@@ -30,7 +30,7 @@ A system that determines the light in a room to turn on or off lights.
   <img src="https://github.com/Puda14/auto-LED-basic/blob/main/schematics/Schematics.png" />
 </p>
 
-#The code
+# The code
 
 - The light sensor will continuously detect the light in the room.
  - If the room is dark, LED will be on
