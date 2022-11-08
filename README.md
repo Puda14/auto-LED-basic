@@ -4,9 +4,7 @@
 
 # auto-LED-basic
 
-A system that determines the light in a room to turn on or off lights. If the room is dark, the light will be on; if the room is bright, the light will be turned off.
-
-# Components
+A system that determines the light in a room to turn on or off lights. 
 
 - 1 Arduino Nano
 - 4 male to female jumper wires
@@ -17,7 +15,7 @@ A system that determines the light in a room to turn on or off lights. If the ro
 
 # Computer setup
 
-- Dowload Arduino IDE on https://www.arduino.cc/en/software
+- Dowload Arduino IDE on [Arduino IDE](https://www.arduino.cc/en/software)
 
     ![image](https://user-images.githubusercontent.com/86721208/171421580-ddb0f377-652e-415c-a952-377a8b33848d.png)
 - For Arduino IDE with Arduino Nano:
@@ -25,4 +23,16 @@ A system that determines the light in a room to turn on or off lights. If the ro
   - Select `board Arduino Nano` for `Board` and the corresponding port for `Port` in `Tools` menu.
 
 # Schematics
+
+<p align="center">
+  <img src="https://github.com/Puda14/auto-LED-basic/blob/main/schematics/Schematics.png" />
+</p>
+
+#The code
+
+- The light sensor will continuously detect the light in the room.
+ - If the room is dark, LED will be on
+ - If the room is bright, LED will be off.
+
+# Future development direction
 
