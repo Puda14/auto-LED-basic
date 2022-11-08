@@ -33,8 +33,8 @@ A system that determines the light in a room to turn on or off lights.
 # The code
 
 - The light sensor will continuously detect the light in the room.
- - If the room is dark, LED will be on
- - If the room is bright, LED will be off.
+    - If the room is dark, LED will be on
+    - If the room is bright, LED will be off.
 
 # Future development direction
 
