@@ -6,6 +6,8 @@
 
 A system that determines the light in a room to turn on or off lights. 
 
+# Components
+
 - 1 Arduino Nano
 - 4 male to female jumper wires
 - 2 resistance 1kΩ
