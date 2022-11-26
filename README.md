@@ -32,9 +32,9 @@ A system that determines the light in a room to turn on or off lights.
 
 # The code
 
-- The light sensor will continuously detect the light in the room.
-    - If the room is dark, LED will be on.
-    - If the room is bright, LED will be off.
+- The system is like car reverse parking sensor installation.
+    - There are 3 corresponding alarm levels on 3 LEDs.
+    - The closer the object is, the more the number of bright LEDs.
 
 # Future development direction
 
